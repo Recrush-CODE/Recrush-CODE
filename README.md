@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning: C++
 
-- ⚡ Fun fact: I'm not only a programmer, I'm also a designer and a streamer.
+- ⚡ Fun fact: I'm not only a programmer, I'm also a designer.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
